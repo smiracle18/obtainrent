@@ -1,5 +1,5 @@
 # obtainrent
 Obtain rent from mining portal
 
-# install selinium
+# install selenium
 pip install selenium
