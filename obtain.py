@@ -77,11 +77,5 @@ else:
     # terminating the session
     s.quit()
 
-
-
-
-
-
-
-
-
+time.sleep(3)
+driver.close()
