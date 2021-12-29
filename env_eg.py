@@ -1,3 +1,4 @@
+# create a file env.py in the same directory and execute the main script
 knc_account = "*********"
 knc_password = "*********"
 knc_login_url = "https://kncchain.com/index/login/login.html"
