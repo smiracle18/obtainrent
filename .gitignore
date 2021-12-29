@@ -1,0 +1,12 @@
+# gitignore
+# folders
+__pycache__
+
+
+# extention
+*.log
+
+
+# files
+test.py
+env.py
